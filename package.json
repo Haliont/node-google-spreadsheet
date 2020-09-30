@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "google-auth-library": "^6.1.0",
+    "google-auth-library": "git+https://github.com/Haliont/google-auth-library-nodejs.git",
     "lodash": "^4.17.20"
   },
   "devDependencies": {
